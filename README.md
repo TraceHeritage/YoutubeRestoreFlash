@@ -6,11 +6,9 @@ This script aims to restore basic YouTube functionality to old versions of Firef
 The script has been specifically coded for **Firefox 9.0.1** running **Greasemonkey 0.9.22.1**.  Usability on newer browsers should be possible, but has not been tested.
 
 ## Prerequisites
-*Adobe Flash Version 10.1 (or greater)
-
-*Firefox 9.0.1
-
-*Greasemonkey 0.9.22.1
+* Adobe Flash Version 10.1 (or greater)
+* Firefox 9.0.1
+* Greasemonkey 0.9.22.1
 
 # Installation
 Copy [THIS](https://raw.githubusercontent.com/TraceHeritage/YoutubeRestoreFlash/master/YoutubeRestoreFlash.user.js) link into the Firefox address bar and click "Install" when prompted.
