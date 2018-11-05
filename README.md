@@ -7,7 +7,9 @@ The script has been specifically coded for **Firefox 9.0.1** running **Greasemon
 
 ## Prerequisites
 *Adobe Flash Version 10.1 (or greater)
+
 *Firefox 9.0.1
+
 *Greasemonkey 0.9.22.1
 
 # Installation
