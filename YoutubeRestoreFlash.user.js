@@ -3,7 +3,8 @@
 // @description This script replaces the default HTML5 YouTube player with the OSMF Strobe Media Playback player.  For videos that don't have a .MP4 stream available, the script will attempt loading a basic .webm stream. 
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
 // @namespace   https://github.com/TraceHeritage/YoutubeRestoreFlash/
-// @include     https://www.youtube.com/watch/*
+// @include     https://www.youtube.com/watch*
+// @include     http://www.youtube.com/watch*
 // @version     1.0.0
 // ==/UserScript==
 
