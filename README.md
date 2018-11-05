@@ -19,6 +19,9 @@ After completely loading a YouTube video page, the HTML5 player should be replac
 
 ## Limitations/Known Issues
 *Not all videos may work.  Music videos are particularly troublesome.
+
 *Some videos may not have a .mp4 source available.  A basic .webm player will be loaded instead.
+
 *Fullscreen is not currently working.
+
 *Videos are only available in one quality (medium).
