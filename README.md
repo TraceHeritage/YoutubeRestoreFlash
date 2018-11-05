@@ -10,7 +10,7 @@ The script has been specifically coded for **Firefox 9.0.1** running **Greasemon
 * Firefox 9.0.1
 * Greasemonkey 0.9.22.1
 
-# Installation
+## Installation
 Copy [THIS](https://raw.githubusercontent.com/TraceHeritage/YoutubeRestoreFlash/master/YoutubeRestoreFlash.user.js) link into the Firefox address bar and click "Install" when prompted.
 
 After completely loading a YouTube video page, the HTML5 player should be replaced with a flash player.  This may take a short while to load on first use.
